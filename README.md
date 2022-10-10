@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# String-Utils App Using React Project
+
+Website link not available as the free version of News Api does not support Deployment.
+
+## About App
+
+Developer : Ashid Reza Suleman.
+Tech Stack: React.Js and Bootstrap, paid News API
+Description: This Web Application shows news belonging to 7 different categories. 
+
+## Install Package
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Images Of The WebSite
+<img src="./images/Screenshot(1).png"/>
+<img src="./images/Screenshot(2).png"/>
